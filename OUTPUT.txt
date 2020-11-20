@@ -1,0 +1,184 @@
+Welcome to the Account Management System.
+Please select an account to access
+        1. Stock Portfolio Account
+        2. Bank Account
+        3. Exit
+        Your selection: 1
+
+Please select an option
+        1. Display current price for a stock symbol
+        2. Buy stock
+        3. Sell stock
+        4. Display current portfolio
+        5. Display transactions history
+        6. Return to main menu
+        Your selection: 1
+
+Enter stock symbol for checking price: VNET
+
+VNET      21Vianet_Group_Inc._ADR       5.6       0:28:22
+
+Please select an option
+        1. Display current price for a stock symbol
+        2. Buy stock
+        3. Sell stock
+        4. Display current portfolio
+        5. Display transactions history
+        6. Return to main menu
+        Your selection: 2
+
+Enter buy options: VNET
+100
+5.70
+
+Please select an option
+        1. Display current price for a stock symbol
+        2. Buy stock
+        3. Sell stock
+        4. Display current portfolio
+        5. Display transactions history
+        6. Return to main menu
+        Your selection: 4
+
+Cash balance = $9430
+
+Symbol    Company                       Number    Price     Total
+VNET      21Vianet_Group_Inc._ADR       100       5.73      573
+
+Total portfolio value = $10003
+
+Please select an option
+        1. Display current price for a stock symbol
+        2. Buy stock
+        3. Sell stock
+        4. Display current portfolio
+        5. Display transactions history
+        6. Return to main menu
+        Your selection: 3
+
+Enter selling options: VNET
+20
+5.75
+
+Please select an option
+        1. Display current price for a stock symbol
+        2. Buy stock
+        3. Sell stock
+        4. Display current portfolio
+        5. Display transactions history
+        6. Return to main menu
+        Your selection: 4
+
+Cash balance = $9545
+
+Symbol    Company                       Number    Price     Total
+VNET      21Vianet_Group_Inc._ADR       80        5.87      469.6
+
+Total portfolio value = $10014.6
+
+Please select an option
+        1. Display current price for a stock symbol
+        2. Buy stock
+        3. Sell stock
+        4. Display current portfolio
+        5. Display transactions history
+        6. Return to main menu
+        Your selection: 5
+
+Action    Symbol    Shares    Price     Time
+Buy       VNET      100       5.7       0:28:35
+Sell      VNET      20        5.75      0:28:46
+
+Please select an option
+        1. Display current price for a stock symbol
+        2. Buy stock
+        3. Sell stock
+        4. Display current portfolio
+        5. Display transactions history
+        6. Return to main menu
+        Your selection: 6
+
+Please select an account to access
+        1. Stock Portfolio Account
+        2. Bank Account
+        3. Exit
+        Your selection: 2
+
+Please select an option
+        1. View account balance
+        2. Deposit money
+        3. Withdraw money
+        4. Display transactions history
+        5. Return to main menu
+        Your selection: 1
+
+Cash balance = $9545
+
+Symbol    Company                       Number    Price     Total
+VNET      21Vianet_Group_Inc._ADR       80        5.73      458.4
+
+Total portfolio value = $10003.4
+
+Please select an option
+        1. View account balance
+        2. Deposit money
+        3. Withdraw money
+        4. Display transactions history
+        5. Return to main menu
+        Your selection: 2
+
+Enter the amount to be deposited: 550
+Depositing $550 to bank account
+
+Cash balance = $10095
+
+Symbol    Company                       Number    Price     Total
+VNET      21Vianet_Group_Inc._ADR       80        5.55      444
+
+Total portfolio value = $10539
+
+Please select an option
+        1. View account balance
+        2. Deposit money
+        3. Withdraw money
+        4. Display transactions history
+        5. Return to main menu
+        Your selection: 3
+
+Enter the amount to be withdrawn: 220.36
+Withdrawing $220.36 from bank account
+
+Cash balance = $9874.64
+
+Symbol    Company                       Number    Price     Total
+VNET      21Vianet_Group_Inc._ADR       80        5.73      458.4
+
+Total portfolio value = $10333
+
+Please select an option
+        1. View account balance
+        2. Deposit money
+        3. Withdraw money
+        4. Display transactions history
+        5. Return to main menu
+        Your selection: 4
+
+Action    Amount    Cash Balance     Date          Time
+Deposit   550       9545             05/08/2017    0:28:56
+Withdraw  220.36    10095            05/08/2017    0:29:4
+
+Please select an option
+        1. View account balance
+        2. Deposit money
+        3. Withdraw money
+        4. Display transactions history
+        5. Return to main menu
+        Your selection: 5
+
+Please select an account to access
+        1. Stock Portfolio Account
+        2. Bank Account
+        3. Exit
+        Your selection: 3
+
+Program Terminated.
